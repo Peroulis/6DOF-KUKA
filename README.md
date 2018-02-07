@@ -1,5 +1,5 @@
 # 6DOF-KUKA
-A 6 degree of freedom robotic manipulator (KUKA) follows a trajectory from P1 to P2
+A 6 degree of freedom robotic manipulator (KUKA) follows a trajectory from P1 to P2 in constant 45 deg to the workspace 
 
 Start the program by writing in the command window 
 
